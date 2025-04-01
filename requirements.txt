@@ -1,0 +1,8 @@
+chatlas
+faicons
+shiny
+shinyswatch
+anthropic[bedrock]
+openai
+testrail-api
+tiktoken
